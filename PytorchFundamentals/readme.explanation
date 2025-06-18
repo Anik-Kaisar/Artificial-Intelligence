@@ -1,0 +1,37 @@
+# Reinforcement Learning Model Exploration
+
+This repository showcases my personal experiments with reinforcement learning models, focusing on policy gradient methods and comparing model performance using both Linear and CNN architectures.
+
+The work demonstrates how different policy representations impact learning outcomes, using PyTorch for implementation. While originally inspired by academic curiosity, all code and analysis reflect my personal learning and exploration beyond the classroom.
+
+## 🚀 Highlights
+
+- Implemented and trained both **Linear Policy Gradient** and **CNN-based Policy Gradient** agents.
+- Visualized outputs to compare model behaviors.
+- Used a simple environment to evaluate learning dynamics.
+- Includes screenshots of output and key model insights.
+
+## 🧠 Technologies
+
+- Python
+- PyTorch
+- Numpy
+- Matplotlib (for visualizations)
+
+## 📁 Contents
+
+- `rl_linear.py` – Implementation of linear policy gradient model
+- `rl_cnn.py` – Implementation of CNN-based policy gradient model
+- `output_screenshots/` – Contains visual results and model performance screenshots
+- `README.md` – This file
+
+## 📌 Motivation
+
+I've always been interested in how agents learn in environments with delayed rewards. Reinforcement learning offers a fascinating approach to adaptive behavior, and this repository reflects my journey into understanding policy gradient algorithms more deeply.
+
+## 📧 Contact
+
+If you’d like to discuss this project, collaborate, or just geek out about RL:
+
+**Anik kaisar**  
+[Email](2058anikkaisar@gmail.com)
